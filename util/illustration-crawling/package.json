@@ -1,0 +1,14 @@
+{
+  "name": "illustration-crawling",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@commander-js/extra-typings": "^12.1.0"
+  }
+}
